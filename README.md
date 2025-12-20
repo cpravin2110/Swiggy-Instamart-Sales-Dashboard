@@ -1,5 +1,6 @@
-![Dashboard Preview](Screenshot 2025-09-18 133613.png)
 
+
+![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
 
 📊 Swiggy Instamart Sales Dashboard | Power BI
 
