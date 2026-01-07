@@ -1,9 +1,12 @@
 
 
+
 ![Dashboard Preview](Screenshot%202025-09-18%20133613.png)
+---
 
 ![Dashboard Preview](Screenshot%202025-09-18%20133754.png)
 
+---
 
 📊 Swiggy Instamart Sales Dashboard | Power BI
 
@@ -13,6 +16,9 @@ This project focuses on analyzing Swiggy Instamart sales performance using Power
 The dashboard provides a comprehensive view of sales trends, city-wise performance, shop size contribution, and product category insights to support data-driven business decisions.
 
 The analysis covers multiple years (2021–2024) and highlights key operational and sales metrics in an interactive and visually intuitive manner.
+
+
+---
 
 🎯 Objectives
 
@@ -24,6 +30,11 @@ Compare performance by shop size and product category
 
 Track key KPIs such as Total Sales, Average Sales, Orders, and Ratings
 
+
+---
+
+
+
 🛠 Tools & Technologies
 
 Power BI
@@ -32,7 +43,11 @@ DAX (Calculated measures & KPIs)
 
 Data Modeling
 
-Data Visualization & Dashboard Design
+Data Visualization & Dashboard Design.
+
+---
+
+
 
 📊 Key Metrics
 
@@ -42,7 +57,10 @@ Average Sales
 
 Total Orders
 
-Average Customer Rating
+Average Customer Rating.
+
+---
+
 
 🔍 Key Insights
 
@@ -52,7 +70,10 @@ Medium-sized shops contribute significantly to overall revenue
 
 Fruits & Vegetables, Snack Foods, and Household items are the top-performing categories
 
-Noticeable year-over-year fluctuations in shop openings and sales performance
+Noticeable year-over-year fluctuations in shop openings and sales performance.
+
+---
+
 
 📈 Dashboard Features
 
@@ -64,7 +85,10 @@ Category-wise sales breakdown
 
 Interactive filters for deeper exploration
 
-KPI cards for quick business insights
+KPI cards for quick business insights.
+
+
+---
 
 
 📂 Repository Structure
@@ -79,6 +103,9 @@ KPI cards for quick business insights
 └── README.md
 
 
+---
+
+
 🚀 Learnings & Outcome
 
 This project strengthened my ability to:
@@ -91,6 +118,7 @@ Design clean and interactive Power BI reports
 
 Translate raw data into actionable insights.
 
+---
 
 
 
