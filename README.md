@@ -15,12 +15,16 @@ This project focuses on analyzing Swiggy Instamart’s sales performance using P
 
 The analysis reveals that the platform generated ₹1.20M in total sales from 8,523 orders, with an average order value of ₹141.01 and an average rating of 3.92, providing a clear snapshot of operational and customer performance.
 
+---
+
 ## 🎯 Objectives
 
 » Analyze total sales and order trends across multiple years.
 » Compare performance across Tier 1, Tier 2, and Tier 3 cities.
 » Evaluate revenue contribution by shop size and product categories.
 » Track KPIs such as Total Sales, Avg Sales, Total Orders, and Ratings.
+
+---
 
 ## 🛠 Tools & Technologies
 
@@ -29,12 +33,16 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 ● Data Modeling
 ● Interactive Dashboard Design
 
+---
+
 ## 📊 Key Metrics
 
 ● Total Sales: ₹1.20M
 ● Total Orders: 8,523
 ● Average Sales per Order: ₹141.01
 ● Average Customer Rating: 3.92
+
+---
 
 ## 🔍 Key Insights
 
@@ -46,6 +54,9 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 
 ⁘ Shop openings declined from 2,182 in 2021 to 2,038 in 2024, suggesting slower expansion but stable operational sales performance.
 
+
+---
+
 ## 📈 Dashboard Features
 
 ⁘ Year-wise performance tracking (2021–2024)
@@ -54,6 +65,8 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 ⁘ Interactive filters and KPI cards
 ⁘ Clean and business-focused layout
 
+---
+
 ## 📂 Repository Structure
 
 📁 Swiggy-Instamart-Sales-Dashboard
@@ -61,10 +74,15 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 │ ├── Instamart_Data.xlsx
 │ ├── Dashboard Screenshots
 │ └── README.md
+
+
 ---
 
 ## 🚀 Conclusion
 This dashboard provides a comprehensive view of sales, customer behavior, and operational performance, showing that non-metro cities, medium-sized stores, and essential product categories are the primary revenue drivers. Despite a slight decline in new shop openings, the platform maintains strong sales and consistent customer ratings. This analysis helps businesses identify high-performing regions, optimize store formats, and focus on high-demand categories to improve revenue, expansion strategy, and overall business efficiency.
+
+---
+
 
 ### 🤝 Connect
 
