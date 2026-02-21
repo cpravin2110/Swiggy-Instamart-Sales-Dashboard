@@ -9,118 +9,62 @@
 ---
 
 
-
 ## 📌 Project Overview
 
-This project focuses on analyzing Swiggy Instamart sales performance using Power BI.
-The dashboard provides a comprehensive view of sales trends, city-wise performance, shop size contribution, and product category insights to support data-driven business decisions.
+This project focuses on analyzing Swiggy Instamart’s sales performance using Power BI to uncover business insights from 2021–2024 data. The dashboard highlights overall revenue, order trends, city-tier contribution, shop-size performance, and category-wise sales to support strategic decision-making.
 
-The analysis covers multiple years (2021–2024) and highlights key operational and sales metrics in an interactive and visually intuitive manner.
-
-
----
+The analysis reveals that the platform generated ₹1.20M in total sales from 8,523 orders, with an average order value of ₹141.01 and an average rating of 3.92, providing a clear snapshot of operational and customer performance.
 
 ## 🎯 Objectives
 
-» Analyze overall sales performance and order trends.
-
-» Understand sales contribution across city tiers (Tier 1, 2, 3).
-
-» Compare performance by shop size and product category.
-
-» Track key KPIs such as Total Sales, Average Sales, Orders, and Ratings.
-
-
----
-
-
+» Analyze total sales and order trends across multiple years.
+» Compare performance across Tier 1, Tier 2, and Tier 3 cities.
+» Evaluate revenue contribution by shop size and product categories.
+» Track KPIs such as Total Sales, Avg Sales, Total Orders, and Ratings.
 
 ## 🛠 Tools & Technologies
 
 ● Power BI
-
-● DAX (Calculated measures & KPIs)
-
+● DAX (Calculated Measures & KPIs)
 ● Data Modeling
-
-● Data Visualization & Dashboard Design.
-
----
-
-
+● Interactive Dashboard Design
 
 ## 📊 Key Metrics
 
-● Total Sales
-
-● Average Sales
-
-● Total Orders
-
-● Average Customer Rating.
-
----
-
+● Total Sales: ₹1.20M
+● Total Orders: 8,523
+● Average Sales per Order: ₹141.01
+● Average Customer Rating: 3.92
 
 ## 🔍 Key Insights
 
-⁘ Tier 3 cities generate the highest total sales, indicating strong demand beyond metro areas.
+⁘ Tier 3 cities lead in sales (₹472K), followed by Tier 2 (₹393K) and Tier 1 (₹336K), showing strong demand beyond metro markets.
 
-⁘ Medium-sized shops contribute significantly to overall revenue.
+⁘ Medium-sized shops generated the highest revenue (₹507.94K), outperforming small (₹444.81K) and large shops (₹249.06K).
 
-⁘ Fruits & Vegetables, Snack Foods, and Household items are the top-performing categories.
+⁘ Top-performing categories include Fruits & Vegetables (₹178.15K) and Snack Foods (₹175.43K), indicating high demand for daily essentials.
 
-⁘ Noticeable year-over-year fluctuations in shop openings and sales performance.
-
----
-
+⁘ Shop openings declined from 2,182 in 2021 to 2,038 in 2024, suggesting slower expansion but stable operational sales performance.
 
 ## 📈 Dashboard Features
 
-⁘  Year-wise sales analysis (2021–2024)
-
-⁘ City-tier and shop-size performance comparison
-
-⁘ Category-wise sales breakdown
-
-⁘ Interactive filters for deeper exploration
-
-⁘ KPI cards for quick business insights.
-
-
----
-
+⁘ Year-wise performance tracking (2021–2024)
+⁘ City-tier & shop-size comparison
+⁘ Category-wise revenue breakdown
+⁘ Interactive filters and KPI cards
+⁘ Clean and business-focused layout
 
 ## 📂 Repository Structure
 
 📁 Swiggy-Instamart-Sales-Dashboard
-│
-├── Instamart Dashboard.pbix      # Power BI dashboard file
-├── Instamart_Data.xlsx           # Source dataset
-├── Screenshot 2025-09-18 133613.png
-├── Screenshot 2025-09-18 133645.png
-├── Screenshot 2025-09-18 133754.png
-└── README.md
-
-
+│ ├── Instamart Dashboard.pbix
+│ ├── Instamart_Data.xlsx
+│ ├── Dashboard Screenshots
+│ └── README.md
 ---
 
-
-## 🚀 Learnings & Outcome
-
-» This project strengthened my ability to:
-
-» Build business-focused dashboards
-
-» Apply DAX calculations for KPIs
-
-» Design clean and interactive Power BI reports
-
-» Translate raw data into actionable insights.
-
----
-
-
+## 🚀 Conclusion
+This dashboard provides a comprehensive view of sales, customer behavior, and operational performance, showing that non-metro cities, medium-sized stores, and essential product categories are the primary revenue drivers. Despite a slight decline in new shop openings, the platform maintains strong sales and consistent customer ratings. This analysis helps businesses identify high-performing regions, optimize store formats, and focus on high-demand categories to improve revenue, expansion strategy, and overall business efficiency.
 
 ### 🤝 Connect
 
