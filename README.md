@@ -20,8 +20,11 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 ## 🎯 Objectives
 
 » Analyze total sales and order trends across multiple years.
+
 » Compare performance across Tier 1, Tier 2, and Tier 3 cities.
+
 » Evaluate revenue contribution by shop size and product categories.
+
 » Track KPIs such as Total Sales, Avg Sales, Total Orders, and Ratings.
 
 ---
@@ -37,10 +40,13 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 
 ## 📊 Key Metrics
 
-● Total Sales: ₹1.20M
-● Total Orders: 8,523
-● Average Sales per Order: ₹141.01
-● Average Customer Rating: 3.92
+● Total Sales: ₹1.20M.
+
+● Total Orders: 8,523.
+
+● Average Sales per Order: ₹141.01 .
+
+● Average Customer Rating: 3.92 .
 
 ---
 
@@ -59,11 +65,15 @@ The analysis reveals that the platform generated ₹1.20M in total sales from 8,
 
 ## 📈 Dashboard Features
 
-⁘ Year-wise performance tracking (2021–2024)
-⁘ City-tier & shop-size comparison
-⁘ Category-wise revenue breakdown
-⁘ Interactive filters and KPI cards
-⁘ Clean and business-focused layout
+⁘ Year-wise performance tracking (2021–2024).
+
+⁘ City-tier & shop-size comparison.
+
+⁘ Category-wise revenue breakdown.
+
+⁘ Interactive filters and KPI cards.
+
+⁘ Clean and business-focused layout.
 
 ---
 
